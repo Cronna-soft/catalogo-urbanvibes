@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "Hoodie Oversize",
+    "price": 49.99,
+    "description": "Lorem ipsum dolor, sit amet consectetur, adipisicing elit. Molestiae corporis deleniti commodi atque, odio excepturi architecto culpa nesciunt tenetur voluptas laborum non, quibusdam eveniet sequi.",
+    "image": "https://placehold.jp/ff4d4d/ffffff/300x300.png",
+    "category": "ropa"
+  },
+  {
+    "id": 2,
+    "name": "Camiseta UrbanArt",
+    "price": 29.99,
+    "description": "Lorem ipsum dolor, sit amet consectetur, adipisicing elit. Molestiae corporis deleniti commodi atque, odio excepturi architecto culpa nesciunt tenetur voluptas laborum non, quibusdam eveniet sequi.",
+    "image": "https://placehold.jp/ff4d4d/ffffff/300x300.png",
+    "category": "ropa"
+  },
+  {
+    "id": 3,
+    "name": "Sneakers Midnight",
+    "price": 89.99,
+    "description": "Lorem ipsum dolor, sit amet consectetur, adipisicing elit. Molestiae corporis deleniti commodi atque, odio excepturi architecto culpa nesciunt tenetur voluptas laborum non, quibusdam eveniet sequi.",
+    "image": "https://placehold.jp/ff4d4d/ffffff/300x300.png",
+    "category": "calzado"
+  },
+  {
+    "id": 4,
+    "name": "Gorra NY Edition",
+    "price": 19.99,
+    "description": "Lorem ipsum dolor, sit amet consectetur, adipisicing elit. Molestiae corporis deleniti commodi atque, odio excepturi architecto culpa nesciunt tenetur voluptas laborum non, quibusdam eveniet sequi.",
+    "image": "https://placehold.jp/ff4d4d/ffffff/300x300.png",
+    "category": "accesorios"
+  },
+  {
+    "id": 5,
+    "name": "Hoodie Oversize",
+    "price": 49.99,
+    "description": "Lorem ipsum dolor, sit amet consectetur, adipisicing elit. Molestiae corporis deleniti commodi atque, odio excepturi architecto culpa nesciunt tenetur voluptas laborum non, quibusdam eveniet sequi.",
+    "image": "https://placehold.jp/ff4d4d/ffffff/300x300.png",
+    "category": "ropa"
+  },
+  {
+    "id": 6,
+    "name": "Camiseta UrbanArt",
+    "price": 29.99,
+    "description": "Lorem ipsum dolor, sit amet consectetur, adipisicing elit. Molestiae corporis deleniti commodi atque, odio excepturi architecto culpa nesciunt tenetur voluptas laborum non, quibusdam eveniet sequi.",
+    "image": "https://placehold.jp/ff4d4d/ffffff/300x300.png",
+    "category": "ropa"
+  },
+  {
+    "id": 7,
+    "name": "Sneakers Midnight",
+    "price": 89.99,
+    "description": "Lorem ipsum dolor, sit amet consectetur, adipisicing elit. Molestiae corporis deleniti commodi atque, odio excepturi architecto culpa nesciunt tenetur voluptas laborum non, quibusdam eveniet sequi.",
+    "image": "https://placehold.jp/ff4d4d/ffffff/300x300.png",
+    "category": "calzado"
+  },
+  {
+    "id": 8,
+    "name": "Gorra NY Edition",
+    "price": 19.99,
+    "description": "Lorem ipsum dolor, sit amet consectetur, adipisicing elit. Molestiae corporis deleniti commodi atque, odio excepturi architecto culpa nesciunt tenetur voluptas laborum non, quibusdam eveniet sequi.",
+    "image": "https://placehold.jp/ff4d4d/ffffff/300x300.png",
+    "category": "accesorios"
+  },
+  {
+    "id": 9,
+    "name": "Hoodie Oversize",
+    "price": 49.99,
+    "description": "Lorem ipsum dolor, sit amet consectetur, adipisicing elit. Molestiae corporis deleniti commodi atque, odio excepturi architecto culpa nesciunt tenetur voluptas laborum non, quibusdam eveniet sequi.",
+    "image": "https://placehold.jp/ff4d4d/ffffff/300x300.png",
+    "category": "ropa"
+  },
+  {
+    "id": 10,
+    "name": "Camiseta UrbanArt",
+    "price": 29.99,
+    "description": "Lorem ipsum dolor, sit amet consectetur, adipisicing elit. Molestiae corporis deleniti commodi atque, odio excepturi architecto culpa nesciunt tenetur voluptas laborum non, quibusdam eveniet sequi.",
+    "image": "https://placehold.jp/ff4d4d/ffffff/300x300.png",
+    "category": "ropa"
+  },
+  {
+    "id": 11,
+    "name": "Sneakers Midnight",
+    "price": 89.99,
+    "description": "Lorem ipsum dolor, sit amet consectetur, adipisicing elit. Molestiae corporis deleniti commodi atque, odio excepturi architecto culpa nesciunt tenetur voluptas laborum non, quibusdam eveniet sequi.",
+    "image": "https://placehold.jp/ff4d4d/ffffff/300x300.png",
+    "category": "calzado"
+  },
+  {
+    "id": 12,
+    "name": "Gorra NY Edition",
+    "price": 19.99,
+    "description": "Lorem ipsum dolor, sit amet consectetur, adipisicing elit. Molestiae corporis deleniti commodi atque, odio excepturi architecto culpa nesciunt tenetur voluptas laborum non, quibusdam eveniet sequi.",
+    "image": "https://placehold.jp/ff4d4d/ffffff/300x300.png",
+    "category": "accesorios"
+  },
+  {
+    "id": 13,
+    "name": "Hoodie Oversize",
+    "price": 49.99,
+    "description": "Lorem ipsum dolor, sit amet consectetur, adipisicing elit. Molestiae corporis deleniti commodi atque, odio excepturi architecto culpa nesciunt tenetur voluptas laborum non, quibusdam eveniet sequi.",
+    "image": "https://placehold.jp/ff4d4d/ffffff/300x300.png",
+    "category": "ropa"
+  },
+  {
+    "id": 14,
+    "name": "Camiseta UrbanArt",
+    "price": 29.99,
+    "description": "Lorem ipsum dolor, sit amet consectetur, adipisicing elit. Molestiae corporis deleniti commodi atque, odio excepturi architecto culpa nesciunt tenetur voluptas laborum non, quibusdam eveniet sequi.",
+    "image": "https://placehold.jp/ff4d4d/ffffff/300x300.png",
+    "category": "ropa"
+  },
+  {
+    "id": 15,
+    "name": "Sneakers Midnight",
+    "price": 89.99,
+    "description": "Lorem ipsum dolor, sit amet consectetur, adipisicing elit. Molestiae corporis deleniti commodi atque, odio excepturi architecto culpa nesciunt tenetur voluptas laborum non, quibusdam eveniet sequi.",
+    "image": "https://placehold.jp/ff4d4d/ffffff/300x300.png",
+    "category": "calzado"
+  },
+  {
+    "id": 16,
+    "name": "Gorra NY Edition",
+    "price": 19.99,
+    "description": "Lorem ipsum dolor, sit amet consectetur, adipisicing elit. Molestiae corporis deleniti commodi atque, odio excepturi architecto culpa nesciunt tenetur voluptas laborum non, quibusdam eveniet sequi.",
+    "image": "https://placehold.jp/ff4d4d/ffffff/300x300.png",
+    "category": "accesorios"
+  }
+]

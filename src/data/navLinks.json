@@ -1,0 +1,6 @@
+[
+	{ "to": "/", "label": "Inicio" },
+	{ "to": "/catalogo", "label": "Catálogo" },
+	{ "to": "/lookbook", "label": "Lookbook" },
+	{ "to": "/contacto", "label": "Contacto" }
+]
