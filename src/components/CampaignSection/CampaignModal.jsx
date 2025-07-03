@@ -15,7 +15,7 @@ const CampaignModal = ({campaign, onClose}) => {
 		>
 			<div
 				onClick={(e) => e.stopPropagation()} 
-				className="bg-gray-100 rounded-lg shadow-2xl max-w-5xl w-full p-10 space-y-6 cursor-default"
+				className="bg-gray-200 rounded-lg shadow-2xl max-w-5xl w-full p-10 space-y-6 cursor-default"
 			>	
 				{/*Imagen principal, título y descripción*/}
 				<div className="flex flex-col md:grid md:grid-cols-2 justify-evenly gap-8">
@@ -23,8 +23,8 @@ const CampaignModal = ({campaign, onClose}) => {
 				</div>
 				
 				{/*Galería de imágenes*/}
-				<div className="flex gap-5 overflow-x-auto pb-2 mt-4">
-					<ModalSecundary gallery={campaign.gallery} mainImage={mainImage} setMainImage={setMainImage} />
+				<div className="overflow-x-auto flex gap-4 pb-2 mt-2">
+						<ModalSecundary gallery={campaign.gallery} mainImage={mainImage} setMainImage={setMainImage} />
 				</div>
 
 				{/* Botón cerrar */}

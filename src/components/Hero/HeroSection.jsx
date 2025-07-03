@@ -1,7 +1,8 @@
+import { motion } from 'motion/react'
 import { SocialList } from '../../components'
 import HeroText from './HeroText.jsx'
 import HeroImage from './HeroImage.jsx'
-import { motion } from 'motion/react'
+import imgBanner from '../../assets/hero-banner.png'
 
 export const HeroSection = () => {
 
@@ -11,7 +12,7 @@ export const HeroSection = () => {
  		{/*Imagen de fondo con gradiente*/}
  		<div className="absolute inset-0">
  			<img 
- 				src="https://placehold.jp/3d4070/ffffff/1000x1000.png?text=." 
+ 				src={imgBanner} 
  				alt="Fondo urbano" 
  				className="w-full h-full object-cover opacity-30" 
  			/>

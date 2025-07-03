@@ -79,6 +79,7 @@ button {
 
 .gallery-scroll {
   display: flex;
+  margin: 0 auto;
   overflow-x: auto;
   scroll-snap-type: x mandatory;
 }
@@ -88,25 +89,6 @@ button {
   scroll-snap-align: center;
 }
 
-.model-gallery {
-
-}
-
-.model-items {
-  flex-grow: 1;
-  width: 0;
-  height: auto;
-  object-fit: cover;
-  opacity: 0.8;
-  transition: 5s ease;
-
-  &:hover {
-    width: 300px;
-    opacity: 1;
-    filter: contrast(110%);
-    cursor: crosshair;
-  }
-}
 
 .social-media {
   & .social-media-name {

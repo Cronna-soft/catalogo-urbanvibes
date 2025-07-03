@@ -11,7 +11,7 @@ const FeaturedProductsItem = ({ product }) => {
 			initial={{ opacity: 0, y: 30 }}
 			animate={{ opacity: 1, y: 0 }}
 			transition={{ duration: 0.3 }}
-			className="gallery-items bg-white rounded-lg shadow-lg overflow-hidden">
+			className="bg-white rounded-lg shadow-lg overflow-hidden">
 			<img 
 				src={`${image}?text=${name}`} 
 				alt={name}

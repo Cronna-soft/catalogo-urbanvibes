@@ -22,7 +22,7 @@ export const FeaturedProductsSection = () => {
 		 			/>
 		 		</div>	
 
-		 		<div className="px-6 gallery-scroll py-3 gap-8">
+		 		<div className="px-6 py-3 gap-8 space-y-6">
 		 			{filteredProducts.map((product) => (
 		 				<FeaturedProductsItem key={product.id} product={product} />
 		 			))}
