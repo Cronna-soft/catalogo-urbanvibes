@@ -42,12 +42,12 @@ Este proyecto ha sido diseñado y desarrollado exclusivamente por **Daniel Audor
 
 ## 📂 Estructura del proyecto
 
- /src
+ - /src
  - /components ← Componentes reutilizables (Hero, Footer, ProductCard, etc.)
  - /pages ← Páginas individuales del sitio (Home, Catálogo, Contacto)
  - /data ← Archivos JSON simulando una base de datos (productos, campañas)
  - /assets ← Imágenes del sitio (en /public/img/)
- App.jsx ← Rutas y layout global
+ - App.jsx ← Rutas y layout global
 
 ---
 
