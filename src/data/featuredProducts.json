@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Hoodie Oversize",
+    "price": 49.99,
+    "image": "https://placehold.jp/ff4d4d/ffffff/300x300.png",
+    "category": "ropa"
+  },
+  {
+    "id": 2,
+    "name": "Camiseta UrbanArt",
+    "price": 29.99,
+    "image": "https://placehold.jp/ff4d4d/ffffff/300x300.png",
+    "category": "ropa"
+  },
+  {
+    "id": 3,
+    "name": "Sneakers Midnight",
+    "price": 89.99,
+    "image": "https://placehold.jp/ff4d4d/ffffff/300x300.png",
+    "category": "calzado"
+  },
+  {
+    "id": 4,
+    "name": "Gorra NY Edition",
+    "price": 19.99,
+    "image": "https://placehold.jp/ff4d4d/ffffff/300x300.png",
+    "category": "accesorios"
+  }
+]

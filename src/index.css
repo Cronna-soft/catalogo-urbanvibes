@@ -1,0 +1,92 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css");
+@import "bootstrap-icons/font/bootstrap-icons";
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+@import "tailwindcss";
+
+:root {
+  --primary-color: #1f1f1f;
+  --accent-color: #ff4d4d;
+  --neon-color: #0ff;
+}
+
+@layer utilities {
+  .animate-scroll {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 16rem;
+    animation: scroll-left 10s linear infinite;
+  }
+
+  @keyframes scroll-left {
+    to { 
+      translate: calc(-4 * 16rem);
+    }
+  }
+}
+
+* {
+  scrollbar-color: 
+    var(--accent-color)
+    var(--primary-color) 
+  ; /*Firefox*/
+  scrollbar-width: thin;/*Firefox*/ 
+  &:hover {
+    scrollbar-color: 
+      var(--neon-color)
+      var(--primary-color) 
+    ; /*Firefox*/
+    scrollbar-width: thin;/*Firefox*/
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: "Inter", sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
+
+.nav-image {
+  height: 60px;
+  width: 250px;
+}
+
+.nav-desktop > li:last-child {
+  padding: 9px 18px;
+  background-color: black;
+  color: white;
+  border-radius: 0.25rem;
+}
+
+.description-product-card {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.gallery-scroll {
+  display: flex;
+  margin: 0 auto;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+}
+
+.gallery-items {
+  flex-shrink: 0;
+  scroll-snap-align: center;
+}
+
+
+.social-media {
+  & .social-media-name {
+    display: none;
+  }
+  &:hover {
+    .social-media-name {
+      display: block;
+    }
+  }
+}

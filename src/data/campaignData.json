@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "title": "Colección Verano 2025",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error eos doloremque quibusdam, quis modi et corporis ea non? Accusamus mollitia provident obcaecati molestiae nisi omnis nostrum pariatur eaque, velit animi.",
+    "cover": "",
+    "gallery": [
+      "https://placehold.jp/0ff/000/600x500.png",
+      "https://placehold.jp/0ff/000/500x500.png",
+      "https://placehold.jp/0ff/000/500x500.png"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Concierto Calle x Calle",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error eos doloremque quibusdam, quis modi et corporis ea non? Accusamus mollitia provident obcaecati molestiae nisi omnis nostrum pariatur eaque, velit animi.",
+    "cover": "https://placehold.jp/ff4d4d/ffffff/500x500.png",
+    "gallery": [
+      "https://placehold.jp/0ff/000/500x500.png",
+      "https://placehold.jp/0ff/000/500x500.png"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Urban Limited Drop",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error eos doloremque quibusdam, quis modi et corporis ea non? Accusamus mollitia provident obcaecati molestiae nisi omnis nostrum pariatur eaque, velit animi.",
+    "cover": "https://placehold.jp/ff4d4d/ffffff/500x500.png",
+    "gallery": [
+      "https://placehold.jp/0ff/000/500x500.png",
+      "https://placehold.jp/0ff/000/500x500.png",
+      "https://placehold.jp/0ff/000/500x500.png",
+      "https://placehold.jp/0ff/000/500x500.png"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Colección DJ Daz Producer",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error eos doloremque quibusdam, quis modi et corporis ea non? Accusamus mollitia provident obcaecati molestiae nisi omnis nostrum pariatur eaque, velit animi.",
+    "cover": "https://placehold.jp/ff4d4d/ffffff/500x500.png",
+    "gallery": [
+      "https://placehold.jp/0ff/000/500x500.png",
+      "https://placehold.jp/0ff/000/500x500.png",
+      "https://placehold.jp/0ff/000/500x500.png",
+      "https://placehold.jp/0ff/000/500x500.png"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "El Juanper: No Falla Una",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error eos doloremque quibusdam, quis modi et corporis ea non? Accusamus mollitia provident obcaecati molestiae nisi omnis nostrum pariatur eaque, velit animi.",
+    "cover": "https://placehold.jp/ff4d4d/ffffff/500x500.png",
+    "gallery": [
+      "https://placehold.jp/0ff/000/500x500.png",
+      "https://placehold.jp/0ff/000/500x500.png",
+      "https://placehold.jp/0ff/000/500x500.png",
+      "https://placehold.jp/0ff/000/500x500.png"
+    ]
+  }
+]
